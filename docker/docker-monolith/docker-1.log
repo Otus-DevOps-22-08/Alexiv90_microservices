@@ -1,0 +1,6 @@
+➜  Alexiv90_microservices git:(docker-2) ✗ docker images
+REPOSITORY             TAG       IMAGE ID       CREATED         SIZE
+alex/ubuntu-tmp-file   latest    2630e482effc   7 seconds ago   63.1MB
+nginx                  latest    080ed0ed8312   10 days ago     142MB
+ubuntu                 18.04     3941d3b032a8   4 weeks ago     63.1MB
+hello-world            latest    feb5d9fea6a5   18 months ago   13.3kB
